@@ -1,7 +1,8 @@
 # 中国
 1. 中国是一个非常大  的国家。
 ************
-3. 非常好```int main()
+非常好```cpp
+int main()
 {
      cout<<"hello world."<<endl;
 }```
